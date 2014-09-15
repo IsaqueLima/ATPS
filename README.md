@@ -1,4 +1,4 @@
-###ATPS de Programação Oriente=ada a Objetos II
+###ATPS de Programação Orientada a Objetos II
 
 1º Etapa
 
